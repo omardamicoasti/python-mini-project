@@ -2,8 +2,7 @@
 
 import argparse
 from pathlib import Path
-from sys import stderr, stdout
-import os
+
 
 class CatError(Exception):
     pass
